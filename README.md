@@ -18,7 +18,11 @@ as it's parameters In this case it is a coma. It returns a vector at end.
 
 # Setup
 
+- git clone https://github.com/vikramsingh7/FileParser.git
+- g++ parser.cpp -o converted.exe
+- coverted.exe input.csv ouput.tsv
 
+- You need to include libstdc++6.dll with your executable file
 
 
 
